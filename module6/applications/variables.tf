@@ -4,7 +4,7 @@ variable "network_remote_state_key" {
 }
 
 variable "network_remote_state_bucket" {
-  default = "ddt-networking"
+  default = "ddtand-networking"
 }
 
 variable "aws_profile" {}
